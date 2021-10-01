@@ -43,7 +43,7 @@ namespace UserMaintenance
             this.listBox1.ItemHeight = 25;
             this.listBox1.Location = new System.Drawing.Point(12, 12);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(349, 304);
+            this.listBox1.Size = new System.Drawing.Size(356, 429);
             this.listBox1.TabIndex = 0;
             // 
             // label1
@@ -80,7 +80,7 @@ namespace UserMaintenance
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(384, 248);
+            this.button1.Location = new System.Drawing.Point(432, 255);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(146, 59);
             this.button1.TabIndex = 5;
