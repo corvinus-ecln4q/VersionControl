@@ -19,7 +19,6 @@ namespace UserMaintenance
             InitializeComponent();
 
             label1.Text = Resource1.LastName;
-            label2.Text = Resource1.FirstName;
             button1.Text = Resource1.Add;
 
             listBox1.DataSource = users;
